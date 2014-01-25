@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="29781uozznezz.GiornaliItaliani" Version="1.1.0.6" Publisher="CN=2F075710-74DD-4007-ACC6-830B39FBF1C8" />
+  <Properties>
+    <DisplayName>Giornali Italiani</DisplayName>
+    <PublisherDisplayName>uozznezz</PublisherDisplayName>
+    <Logo>images\Giornale_enciclopedico_frontespizio-50px.jpg</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="it" />
+  </Resources>
+  <Applications>
+    <Application Id="FeedReader" StartPage="default.html">
+      <m2:VisualElements DisplayName="Giornali Italiani" Description="Giornali Italiani online. A tutela della privacy, questa applicazione non raccoglie, memorizza o distribuisce alcuna informazione relativa all'utente. Questa applicazione usa la connessione internet per leggere RSS feed URL disponibili al pubblico e che sono configurati per default nell'applicazione stessa." ForegroundText="light" BackgroundColor="#00b2f0" ToastCapable="false" Square150x150Logo="images\Giornale_enciclopedico_frontespizio-150px.jpg" Square30x30Logo="images\Giornale_enciclopedico_frontespizio-30px.jpg">
+        <m2:DefaultTile ShortName="Giornali Italiani">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="images\Giornale_enciclopedico_frontespizio-620px.jpg" BackgroundColor="#00b2f0" />
+        <m2:ApplicationView MinWidth="width320" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

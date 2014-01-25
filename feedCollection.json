@@ -1,0 +1,170 @@
+[
+    	{
+        "Category":"Agenzie",
+        "Name":"Adnkronos",
+        "Description":"Ultime Notizie",
+        "uri":"http://rss.adnkronos.com/RSS_PrimaPagina.xml",
+        "imgUri":"http://www.adnkronos.com/IGN/config/imgs/logo-50-2.png"
+    },
+	{
+        "Category":"Agenzie",
+        "Name":"Ansa",
+        "Description":"Ultime Notizie",
+        "uri":"http://www.ansa.it/main/notizie/awnplus/topnews/synd/ansait_awnplus_topnews_medsynd_Today_Idx.xml",
+        "imgUri":"http://www.ansa.it/main/images/logo_ansait.gif"
+    },
+	{
+        "Category":"Agenzie",
+        "Name":"Asca",
+        "Description":"Ultime Notizie",
+        "uri":"http://www.asca.it/ascanew/rssfeed.php?",
+        "imgUri":"http://www.asca.it/images/logo.jpg"
+    },
+	{
+        "Category":"Agenzie",
+        "Name":"Sir",
+        "Description":"Ultime Notizie",
+        "uri":"http://www.agensir.it/pls/sir/rss_documenti.elenco_documenti",
+        "imgUri":"http://www.agensir.it/sir_new/s2magazine/css/0/new_images/testatanew2012.gif"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Corriere della Sera",
+        "Description":"In Prima Pagina",
+        "uri":"http://xml.corriereobjects.it/rss/homepage.xml",
+        "imgUri":"http://www.corriere.it/rss/images/logo_small.gif"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"La Repubblica",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.repubblica.it/rss/homepage/rss2.0.xml",
+        "imgUri":"http://www.repubblica.it/static/images/homepage/2010/la-repubblica-logo-big.png"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Il Sole 24 Ore",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ilsole24ore.com/rss/primapagina.xml",
+        "imgUri":"http://www.gruppo24ore.ilsole24ore.com/media/17697/contenuto_1__il_quotidiano.jpg"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Il Messaggero",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ilmessaggero.it/rss/home.xml",
+        "imgUri":"http://www.ilmessaggero.it/img/msgr_logo_new.png"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"La Stampa",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.lastampa.it/rss.xml",
+        "imgUri":"http://www.lastampa.it/common/img/lastampatop2.gif"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Avvenire",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.avvenire.it/_layouts/Avvenire/feed.aspx?",
+        "imgUri":"http://www.avvenire.it/Style%20Library/Avvenire/testata%20ok.png"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Quotidiano.Net",
+        "Description":"In Prima Pagina",
+        "uri":"http://quotidianohome.feedsportal.com/c/33327/f/565662/index.rss",
+        "imgUri":"http://www.quotidiano.net/file_generali/img/logo_quotidianonet-top.gif"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Il Giornale",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ilgiornale.it/feed.xml",
+        "imgUri":"http://www.ilgiornale.it/sites/default/modules/ilg_logo/img/ilGiornale.it_359x44_ferrari3.png"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"L'Eco di Bergamo",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ecodibergamo.it/feeds/latesthp/267/",
+        "imgUri":"http://lightstorage.ecodibergamo.it/mediaon/cms.ecodibergamo/storage/site_media_tribe_custom/static/images/header/logo.gif"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"La Gazzetta dello Sport",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.gazzetta.it/rss/Home.xml",
+        "imgUri":"http://www.gazzetta.it/rss/images/logo_small.gif"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Tuttosport",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.tuttosport.com/rss/primo_piano.xml",
+        "imgUri":"http://cdn.tuttosport.com/res/img/2011/logo_header.png"
+    },
+    {
+        "Category":"Quotidiani",
+        "Name":"Corriere dello Sport",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.corrieredellosport.it/rss/primo_piano.xml",
+        "imgUri":"http://www.corrieredellosport.it/res/v13/img/logos.png"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Libero",
+        "Description":"Ultim'ora",
+        "uri":"http://www.liberoquotidiano.it/rss.jsp?sezione=345",
+        "imgUri":"http://www.liberoquotidiano.it/images/Libero%20Quotidiano.jpg"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Il Gazzettino",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ilgazzettino.it/rss/home.xml",
+        "imgUri":"http://www.gazzettino.it/img/logo-gazzettino-natale.png.pagespeed.ce.SoMEK2v1h0.png"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Il Secolo XIX",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ilsecoloxix.it/homepage/rss/homepage.xml",
+        "imgUri":"http://www.ilsecoloxix.it/rw/SysConfig/WebPortal2011/ilsecoloxix/img/logo-secoloxix.png"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Il Mattino",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.ilmattino.it/rss/home.xml",
+        "imgUri":"http://www.ilmattino.it/img/logo-mattino.png"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Il Tirreno",
+        "Description":"In Prima Pagina",
+        "uri":"http://iltirreno.gelocal.it/livorno/rss/home/",
+        "imgUri":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpa_UuVQVhD36aChscbP_Xg2c9VNvdkXjmPe7FaH9d7pow0mBd"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"Il Giornale di Sicilia",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.gds.it/gds/rssfeed/?type=100",
+        "imgUri":"http://www.gds.it/uploads/tx_templavoila/top_home.png"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"L'Unione Sarda",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.unionesarda.it/rss/primopiano",
+        "imgUri":"http://www.unionesarda.it/files/testata_us_small2.gif"
+    },
+	{
+        "Category":"Quotidiani",
+        "Name":"L'Arena",
+        "Description":"In Prima Pagina",
+        "uri":"http://www.larena.it/feeds/latesthp/1/",
+        "imgUri":"http://media.larena.it/media/siti/quotidiani_web-v2/images/logos/logo_are.png"
+    }
+]
